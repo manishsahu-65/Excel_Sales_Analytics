@@ -1,4 +1,4 @@
-## Sales Analytics report
+# Sales Analytics Report
 
 Sales analytics is a key component for businesses to make data-driven decisions by analyzing and optimizing sales activities and performance.
 
@@ -24,3 +24,22 @@ By analyzing sales data, businesses can identify key sales trends, track importa
 
 ### Role of Reports
 Sales reports play a crucial role in determining effective customer discount strategies, supporting negotiations with clients, and identifying potential opportunities for business expansion in high-growth regions or markets.
+
+## Technical and Soft Skills
+
+### **Technical Skills:**
+- [x] **ETL (Extract, Transform, Load):** Capability to collect and process sales data efficiently.
+- [x] **Power Query:** Skill in cleaning and transforming sales data for analysis.
+- [x] **Sales Data Analysis:** Ability to segment customers, track revenue growth, and analyze trends.
+- [x] **Power Pivot:** Expertise in managing complex sales data models and relationships.
+- [x] **Data Visualization:** Proficiency in creating dashboards and reports using tools like Excel.
+- [x] **DAX (Data Analysis Expressions):** Ability to develop calculated measures for sales performance tracking.
+
+### **Soft Skills:**
+- [x] **Problem-Solving**
+- [x] **Attention to Detail**
+- [x] **Communication**
+- [x] **Strategic Thinking**
+- [x] **Collaboration**
+
+By leveraging these technical and soft skills, sales professionals can optimize revenue generation and drive sustainable business growth.
